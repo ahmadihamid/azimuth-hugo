@@ -2,7 +2,7 @@
 
 Azimuth is a sleek, modern SaaS site for Hugo. It uses a section builder with blocks for hero, features, faq, pricing, reviews, contact and more.
 
-[Live Demo](https://themes.stackbit.com/demos/starter/?demo=jstazimuthhugo)
+[Live Demo](https://themes.stackbit.com/demos/azimuth/?demo=jstazimuthhugo)
 
 [![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/azimuth-hugo&utm_source=github&utm_medium=referral&utm_campaign=custom_themes&utm_content=readme)
 
